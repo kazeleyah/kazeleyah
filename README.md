@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @kazeleyah
-- i'm a beginner html, javascript, python, & c++ coder
-- i'm currently learning computer science, im in my first year
-- i'm open to any small passion projects people need assistance coding/programming
-- you can reach me @AYLAALT77@GMAIL.COM
-- she/her
-- i sadly like fps games. 
-
+hey there!
+I am a university student studying to become a fullstack developer
+I currently hone the skills of HTML, JavaScript, CSS, GML, and p5.JS
+I have some small projects up on my page if you want to see my work!
+Email: aylaxfps@gmail.com
 <!---
 kazeleyah/kazeleyah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
